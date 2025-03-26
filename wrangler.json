@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "crimson-bush-f035",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ad19a85d-895b-4e21-b65a-0d0a54be7f59",
+      "database_name": "prizepicks"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
